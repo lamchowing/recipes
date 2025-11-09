@@ -1,8 +1,6 @@
-[Picture]
-[Description]
 
 **Style:** [Eastern | Western]
-**Type:** [Appetizer | Main Course | Soap | Dessert | Drink]
+**Type:** [Appetizer | MainCourse | Soap | Dessert | Drink]
 **Uri:** [Uri]
 
 **Prep Time:**  mins
