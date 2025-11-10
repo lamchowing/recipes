@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
+                "file": "MainCourses/青咖喱雞翼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
-            }
-          },
-          {
-            "id": "b58839030efb08e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appetizers/香煎藕餅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "香煎藕餅"
-            }
-          },
-          {
-            "id": "e12fb10fad324f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainCourses/檸檬煎雞扒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "檸檬煎雞扒"
+              "title": "青咖喱雞翼"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#乾迷迭香（dried",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,45 +166,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "e12fb10fad324f24",
+  "active": "ad7f9eedecbee580",
   "lastOpenFiles": [
-    "MainCourses/Images/檸檬煎雞扒.jpg",
-    "MainCourses/檸檬煎雞扒.md",
+    "MainCourses/Images/青咖喱雞翼.jpg",
+    "MainCourses/Images/上海粗炒麵.jpg",
+    "MainCourses/青咖喱雞翼.md",
     "Template.md",
+    "MainCourses/照燒金菇牛肉卷.md",
+    "MainCourses/Images/照燒金菇牛肉卷.jpg",
+    "Appetizers/馬來沙爹雞.md",
+    "Appetizers/Images/馬來沙爹雞.jpg",
+    "MainCourses/韓式蘿蔔燜牛肋骨.md",
+    "MainCourses/Images/韓式蘿蔔燜牛肋骨.jpg",
+    "MainCourses/雞絲火腿意大利寬麵.md",
+    "MainCourses/Images/雞絲火腿意大利寬麵.jpg",
+    "MainCourses/雜菌菇燴意大利飯.md",
+    "MainCourses/Images/雜菌菇燴意大利飯.jpg",
+    "MainCourses/香草蘑菇炆雞扒.md",
     "Appetizers/香煎藕餅.md",
-    "Appetizers/Images/香煎藕餅.jpg",
+    "MainCourses/Images/香草蘑菇炆雞扒.jpg",
+    "MainCourses/意大利粉配忌廉蘑菇汁.md",
+    "MainCourses/Images/意大利粉配忌廉蘑菇汁.jpg",
+    "MainCourses/蘑菇白汁焗雞.md",
+    "MainCourses/Images/蘑菇白汁焗雞.jpg",
+    "MainCourses/檸檬煎雞扒.md",
+    "MainCourses/Images/檸檬煎雞扒.jpg",
     "MainCourses/腐乳炒通菜.md",
-    "MainCourses/Images/腐乳炒通菜.jpg",
     "Appetizers/涼拌海蜇.md",
-    "Appetizers/Images/涼拌海蜇.jpg",
     "MainCourses/瑤柱炆節瓜脯.md",
-    "MainCourses/Images/瑤柱炆節瓜脯.jpg",
     "MainCourses/咖喱肉鬆豆腐.md",
-    "MainCourses/Images/咖喱肉鬆豆腐.jpg",
     "Appetizers/咖喱蘿蔔魚蛋.md",
-    "Appetizers/Images/咖喱蘿蔔魚蛋.jpg",
     "MainCourses/麻婆豆腐.md",
-    "MainCourses/Images/麻婆豆腐.jpg",
     "Desserts/芒果西米露.md",
-    "Desserts/Images/芒果西米露.jpg",
     "Desserts/芒果布甸.md",
     "Desserts/楊枝甘露.md",
     "MainCourses/黑椒牛柳粒.md",
-    "MainCourses/Images/黑椒牛柳粒.jpg",
     "MainCourses/西蘭花炒魚柳.md",
     "MainCourses/雪菜肉絲米粉.md",
     "Appetizers/茶葉蛋.md",
-    "Appetizers/涼拌小黃瓜.md",
-    "MainCourses/魚香豆腐.md",
-    "Appetizers/蘿蔔糕.md",
-    "Appetizers/芋香肉卷.md",
-    "Soaps/羅宋湯.md",
-    "Soaps/紫菜豆腐肉鬆湯.md",
-    "MainCourses/紅燒豆腐.md",
-    "Soaps/粟米魚肚羹.md",
-    "MainCourses/粟米斑塊.md",
-    "Drinks/Images",
-    "Drinks",
+    "Beverages/Images",
+    "Beverages",
     "Desserts/Images",
     "Desserts",
     "Soaps/Images",
