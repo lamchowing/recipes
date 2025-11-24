@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainCourses/雜菌菇燴意大利飯.md",
+                "file": "MainCourses/蘑菇白汁焗雞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雜菌菇燴意大利飯"
+              "title": "蘑菇白汁焗雞"
             }
           }
         ]
@@ -156,9 +156,11 @@
   },
   "active": "a86747e1f047b614",
   "lastOpenFiles": [
-    "MainCourses/回鍋肉.md",
-    "MainCourses/雜菌菇燴意大利飯.md",
+    "MainCourses/紅燒豆腐.md",
     "MainCourses/韓式蘿蔔燜牛肋骨.md",
+    "MainCourses/雜菌菇燴意大利飯.md",
+    "MainCourses/香草蘑菇炆雞扒.md",
+    "MainCourses/回鍋肉.md",
     "MainCourses/雞絲火腿意大利寬麵.md",
     "MainCourses/Images/雞絲火腿意大利寬麵.jpg",
     "MainCourses/Images/韓式蘿蔔燜牛肋骨.jpg",
@@ -169,7 +171,6 @@
     "MainCourses/Images/雜菌菇燴意大利飯.jpg",
     "MainCourses/Images/蘑菇白汁焗雞.jpg",
     "MainCourses/蘑菇白汁焗雞.md",
-    "MainCourses/香草蘑菇炆雞扒.md",
     "MainCourses/照燒金菇牛肉卷.md",
     "MainCourses/意大利粉配忌廉蘑菇汁.md",
     "MainCourses/青咖喱雞翼.md",
@@ -189,7 +190,6 @@
     "Appetizers/咖喱蘿蔔魚蛋.md",
     "羅宋湯.md",
     "芋香肉卷.md",
-    "Welcome.md",
-    "Chicken Piccata Casserole.md"
+    "Welcome.md"
   ]
 }
