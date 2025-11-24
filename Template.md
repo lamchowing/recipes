@@ -1,6 +1,6 @@
 
 **Style:** [Eastern | Western]
-**Type:** [Appetizer | MainCourse | Soap | Dessert | Drink]
+**Type:** [Appetizer | MainCourse | Soap | Dessert | Beverages]
 **Uri:** [Uri]
 
 **Prep Time:**  mins

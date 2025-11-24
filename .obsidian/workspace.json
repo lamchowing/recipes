@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dbb8377470015330",
+        "id": "780c618384931a3e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7f9eedecbee580",
+            "id": "e92654fa7d8aeebe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tofu/咖喱肉鬆豆腐.md",
-                "mode": "source",
-                "source": false
+                "file": "Vegetable/Images/瑤柱金菇扒菠菜.png"
               },
-              "icon": "lucide-file",
-              "title": "咖喱肉鬆豆腐"
-            }
-          },
-          {
-            "id": "f5d7b9909904b535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vegetable/雜菌菇燴意大利飯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "雜菌菇燴意大利飯"
+              "icon": "lucide-image",
+              "title": "瑤柱金菇扒菠菜"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,37 +164,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f5d7b9909904b535",
+  "active": "2c2a91250650e9eb",
   "lastOpenFiles": [
+    "Vegetable/瑤柱金菇扒菠菜.md",
+    "Vegetable/Images/瑤柱金菇扒菠菜.png",
+    "Template.md",
+    "Soaps/海皇冬瓜盅.md",
+    "Soaps/Images/海皇冬瓜盅.png",
+    "Soaps/鹹蛋節瓜湯.md",
+    "Soaps/Images/鹹蛋節瓜湯.png",
+    "Soaps/紫菜豆腐肉鬆湯.md",
+    "Soaps/Images/紫菜豆腐肉丸湯.png",
+    "Soaps/紫菜豆腐肉丸湯.md",
+    "Seafood/薑蔥蠔煲.md",
+    "Seafood/Images/薑蔥蠔煲.png",
+    "Seafood/粟米斑塊.md",
+    "Tofu/蔥燒玉子豆腐.md",
+    "Tofu/Images/蔥燒玉子豆腐.png",
+    "Beef/蒜片牛柳粒飯.md",
+    "Beef/Images/蒜片牛柳粒飯.png",
+    "Beef/梨汁烤牛柳.md",
+    "Beef/Images/梨汁烤牛柳.png",
+    "Soaps/Images/泡菜豬骨湯.png",
+    "Soaps/泡菜豬骨湯.md",
+    "Chicken/香葉包雞.md",
+    "Chicken/Images/香葉包雞.png",
+    "Pork/泰式豬頸肉.md",
+    "Pork/瑤柱豬骨粥.md",
+    "Soaps/羅宋湯.md",
+    "Beverages/蜂蜜檸檬愛玉梳打.md",
+    "Beef/韓式牛肉飯.md",
+    "Beef/韓式蘿蔔燜牛肋骨.md",
+    "Soaps/蘑菇濃湯.md",
+    "Tofu/咖喱肉鬆豆腐.md",
+    "Vegetable/雜菌菇燴意大利飯.md",
     "Vegetable/腐乳炒通菜.md",
     "Vegetable/瑤柱炆節瓜脯.md",
     "Vegetable/炆冬菇.md",
-    "Vegetable/意大利粉配忌廉蘑菇汁.md",
-    "Tofu/麻婆豆腐.md",
-    "Tofu/魚香豆腐.md",
-    "Tofu/紅燒豆腐.md",
-    "Tofu/咖喱肉鬆豆腐.md",
-    "Soaps/紫菜豆腐肉鬆湯.md",
-    "Soaps/粟米魚肚羹.md",
-    "Soaps/清湯牛腩.md",
-    "Soaps/冬瓜粒湯.md",
-    "Pork/雪菜肉絲米粉.md",
-    "Pork/梅菜蒸肉餅.md",
-    "Pork/回鍋肉.md",
-    "Pork/上海粗炒麵.md",
-    "Fish/西蘭花炒魚柳.md",
-    "Fish/粟米斑塊.md",
-    "Desserts/芒果西米露.md",
-    "Desserts/芒果布甸.md",
-    "Desserts/楊枝甘露.md",
-    "Chicken/香草蘑菇炆雞扒.md",
-    "Chicken/青咖喱雞翼.md",
-    "Chicken/雞絲火腿意大利寬麵.md",
-    "Chicken/蘑菇白汁焗雞.md",
-    "Chicken/檸檬煎雞扒.md",
-    "Vegetable/Images/意大利粉配忌廉蘑菇汁.jpg",
-    "Fish/Images",
-    "Fish",
+    "Seafood/Images",
+    "Seafood",
     "Chicken/Images",
     "Beef/Images",
     "Pork/Images",
@@ -220,15 +211,6 @@
     "Beef",
     "Tofu/Images",
     "Tofu",
-    "Chicken/Images/青咖喱雞翼.jpg",
-    "Pork/Images/上海粗炒麵.jpg",
-    "Beef/Images/照燒金菇牛肉卷.jpg",
-    "Appetizers/Images/馬來沙爹雞.jpg",
-    "Beef/Images/韓式蘿蔔燜牛肋骨.jpg",
-    "Chicken/Images/雞絲火腿意大利寬麵.jpg",
-    "Vegetable/Images/雜菌菇燴意大利飯.jpg",
-    "Chicken/Images/香草蘑菇炆雞扒.jpg",
-    "Chicken/Images/蘑菇白汁焗雞.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
