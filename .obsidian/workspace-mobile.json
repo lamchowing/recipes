@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soaps/清湯牛腩.md",
+                "file": "Soaps/海皇冬瓜盅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "清湯牛腩"
+              "title": "海皇冬瓜盅"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "active": "a86747e1f047b614",
   "lastOpenFiles": [
+    "Soaps/清湯牛腩.md",
     "Vegetable/腐乳炒通菜.md",
     "Chicken/雞絲火腿意大利寬麵.md",
     "Chicken/蘑菇白汁焗雞.md",
@@ -200,7 +201,6 @@
     "Tofu/咖喱肉鬆豆腐.md",
     "Tofu/紅燒豆腐.md",
     "Tofu",
-    "Beef/韓式蘿蔔燜牛肋骨.md",
-    "Beef/黑椒牛柳粒.md"
+    "Beef/韓式蘿蔔燜牛肋骨.md"
   ]
 }
