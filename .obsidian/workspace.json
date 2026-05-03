@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "780c618384931a3e",
+        "id": "59725065f7d8c4d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e92654fa7d8aeebe",
+            "id": "2ba82a559e7848b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beef/越南牛河.md",
+                "file": "Appetizers/麻酱香菜肥牛.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "越南牛河"
-            }
-          },
-          {
-            "id": "f814d02ce26be340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beef/氣炸牛肉粒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "氣炸牛肉粒"
-            }
-          },
-          {
-            "id": "f3010cbb827277ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beef/氣炸牛肉粒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "氣炸牛肉粒"
+              "title": "麻酱香菜肥牛"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,17 +166,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3010cbb827277ac",
+  "active": "2ba82a559e7848b5",
   "lastOpenFiles": [
+    "Appetizers/Images/麻酱香菜肥牛.png",
+    "Appetizers/咖喱蘿蔔魚蛋.md",
+    "Appetizers/麻酱香菜肥牛.md",
+    "Template.md",
+    "Investments",
+    "New folder",
+    "Beef/越南牛河.md",
+    "Untitled.base",
+    "Beef/氣炸牛肉粒.md",
     "Beef/Images/氣炸牛肉粒.jpg",
     "Beef/咖喱牛肉芝士焗飯.md",
-    "Beef/氣炸牛肉粒.md",
     "Beef/照燒金菇牛肉卷.md",
     "Beef/蒜片牛柳粒飯.md",
     "Beef/韓式牛肉飯.md",
-    "Template.md",
     "Beef/Images/越南牛河.png",
-    "Beef/越南牛河.md",
     "Pork/紅燒肉.md",
     "Pork/Images/紅燒肉.png",
     "Soaps/蘑菇濃湯.md",
@@ -230,8 +207,6 @@
     "Beef/梨汁烤牛柳.md",
     "Soaps/泡菜豬骨湯.md",
     "Chicken/香葉包雞.md",
-    "Pork/泰式豬頸肉.md",
-    "Pork/瑤柱豬骨粥.md",
     "Seafood/Images",
     "Seafood",
     "Chicken/Images",
@@ -239,9 +214,6 @@
     "Pork/Images",
     "Pork",
     "Chicken",
-    "Beef",
-    "Tofu/Images",
-    "Tofu",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
