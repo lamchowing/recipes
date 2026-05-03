@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/青咖喱雞翼.md",
+                "file": "Appetizers/麻酱香菜肥牛.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "青咖喱雞翼"
+              "title": "麻酱香菜肥牛"
             }
           }
         ]
@@ -154,15 +154,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "66afc25567456628",
+  "active": "76d9529163754257",
   "lastOpenFiles": [
+    "Chicken/青咖喱雞翼.md",
+    "Appetizers/Images/麻酱香菜肥牛.png",
+    "Appetizers/麻酱香菜肥牛.md",
     "Appetizers/香煎藕餅.md",
     "Appetizers/蘿蔔糕.md",
     "Appetizers/茶葉蛋.md",
     "Appetizers/芝士洋蔥焗大啡菇.md",
     "Appetizers/芋香肉卷.md",
     "Soaps/清湯牛腩.md",
-    "Chicken/青咖喱雞翼.md",
     "Chicken/檸檬煎雞扒.md",
     "Chicken/雞絲火腿意大利寬麵.md",
     "Soaps/海皇冬瓜盅.md",
@@ -180,8 +182,6 @@
     "Soaps/紫菜豆腐肉鬆湯.md",
     "Tofu/紅燒豆腐.md",
     "Soaps/蘑菇濃湯.md",
-    "Seafood/薑蔥蠔煲.md",
-    "Chicken/香草蘑菇炆雞扒.md",
     "Chicken/Images/雪菜火鴨絲炆米.png",
     "Chicken/Images/瑤柱滑雞粥.png",
     "Appetizers/Images/芝士洋蔥焗大啡菇.png",
@@ -193,7 +193,6 @@
     "Fish/Images",
     "Fish",
     "Vegetable/Images/瑤柱炆節瓜脯.jpg",
-    "Vegetable/Images/意大利粉配忌廉蘑菇汁.jpg",
     "Vegetable/Images",
     "Vegetable",
     "Chicken/Images",
