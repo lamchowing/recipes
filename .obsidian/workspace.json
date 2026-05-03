@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appetizers/麻酱香菜肥牛.md",
+                "file": "Beef/法式紅酒燉牛肉.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "麻酱香菜肥牛"
+              "title": "法式紅酒燉牛肉"
             }
           }
         ]
@@ -166,12 +166,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ba82a559e7848b5",
+  "active": "2c2a91250650e9eb",
   "lastOpenFiles": [
+    "Beef/Images/法式紅酒燉牛肉.jpg",
+    "Beef/法式紅酒燉牛肉.md",
+    "Template.md",
+    "Appetizers/麻酱香菜肥牛.md",
+    "Untitled.md",
     "Appetizers/Images/麻酱香菜肥牛.png",
     "Appetizers/咖喱蘿蔔魚蛋.md",
-    "Appetizers/麻酱香菜肥牛.md",
-    "Template.md",
     "Investments",
     "New folder",
     "Beef/越南牛河.md",
@@ -194,8 +197,6 @@
     "Chicken/雪菜火鴨絲炆米.md",
     "Chicken/Images/雪菜火鴨絲炆米.png",
     "Appetizers/芝士洋蔥焗大啡菇.md",
-    "Appetizers/Images/芝士洋蔥焗大啡菇.png",
-    "Vegetable/Images/瑤柱金菇扒菠菜.png",
     "Vegetable/瑤柱金菇扒菠菜.md",
     "Soaps/海皇冬瓜盅.md",
     "Soaps/鹹蛋節瓜湯.md",
@@ -205,8 +206,6 @@
     "Seafood/粟米斑塊.md",
     "Tofu/蔥燒玉子豆腐.md",
     "Beef/梨汁烤牛柳.md",
-    "Soaps/泡菜豬骨湯.md",
-    "Chicken/香葉包雞.md",
     "Seafood/Images",
     "Seafood",
     "Chicken/Images",
