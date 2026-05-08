@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appetizers/麻酱香菜肥牛.md",
+                "file": "Chicken/青咖喱雞翼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "麻酱香菜肥牛"
+              "title": "青咖喱雞翼"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chicken/青咖喱雞翼.md",
+            "file": "Beef/法式紅酒燉牛肉.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,9 +156,10 @@
   },
   "active": "76d9529163754257",
   "lastOpenFiles": [
+    "Beef/法式紅酒燉牛肉.md",
+    "Appetizers/麻酱香菜肥牛.md",
     "Chicken/青咖喱雞翼.md",
     "Appetizers/Images/麻酱香菜肥牛.png",
-    "Appetizers/麻酱香菜肥牛.md",
     "Appetizers/香煎藕餅.md",
     "Appetizers/蘿蔔糕.md",
     "Appetizers/茶葉蛋.md",
